@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">OdevCalismaYapisi</string>
+
+    <string name="Ad" translatable="false">UNUTMAZTEXTILE</string>
+
+    <string name="BedenSeç" translatable="false">BEDEN SEÇ</string>
+    <string name="BoyutS" translatable="false">KÜCÜK</string>
+    <string name="BoyutM">ORTA</string>
+    <string name="BoyutL">BÜYÜK</string>
+    <string name="BoyutXl">BATTAL</string>
+    <string name="ÜrünAd">Erkek Çocuk Beyaz Basic Polo Yaka Sweatshirt
+
+        100 Pamuk
+        50269421-VR013.
+        Siparişleriniz 2-4 iş günü içerisinde kargoya verilecektir. Siparişiniz onaylandıktan sonra "Hesabım" linki üzerinden siparişlerinizi görüntüleyebilir, durumları hakkında bilgi alabilir ve kargoya verildikten sonra kargo takibini yapabilirsiniz.</string>
+    <string name="Fiyat">850.00 ₺ </string>
+    <string name="SepeteEkle">SEPETE EKLE</string>
+
+</resources>
+
+
+
+

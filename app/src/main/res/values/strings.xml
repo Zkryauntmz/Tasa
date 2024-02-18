@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name" translatable="false">OdevCalismaYapisi</string>
+
+    <string name="Name" translatable="false">UNUTMAZTEXTILE</string>
+
+    <string name="SelectSize" translatable="false">SELECT SIZE</string>
+    <string name="SizeS" translatable="false">SMALL</string>
+    <string name="SizeM">MEDIUM </string>
+    <string name="SizeL">LARGE</string>
+    <string name="SizeXl">XLARGE</string>
+    <string name="ProductName">Boy\'s White Basic Polo Collar Sweatshirt</string>
+    <string name="Description">G083SZ082.000.1639231.VR010
+        100% Cotton
+        50269421-VR013.
+        Your orders will be shipped within 2-4 business days. After your order is confirmed, you can view your orders via the "My Account" link, get information about their status and track the cargo after it is shipped.</string>
+
+    <string name="Price">35.79 $ </string>
+    <string name="AddChart">ADD TO CHART</string>
+
+</resources>
+
+
+
+
